@@ -9,6 +9,9 @@ criterion (AICc) are used to select the regularization coefficient.
 The codes of the FISTA part are originally created by Wen Zaiwen, Liu
 Haoyang and Hu Jiang, see:
 https://bicmr.pku.edu.cn/~wenzw/optbook/pages/lasso_proxg/LASSO_Nesterov_inn.html
+Reference: 
+Liu Haoyang, Hu Jiang, Li Yongfeng, Wen Zaiwen (2021) Optimization: Modeling, Algorithms 
+and Theory (in Chinese). China higher education press, Beijing
 
 Yu Haipeng and Chang Guobin modified the original codes of the FISTA so
 that they can be used for local gravity field modeling based on SRBFs.The
