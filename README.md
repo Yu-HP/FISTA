@@ -28,6 +28,7 @@ References
 
 Chang GB, Qian NJ, Chen C, Gao JX (2020) Precise instantaneous velocimetry and accelerometry 
 with a stand-alone GNSS receiver based on sparse kernel learning. Measurement 159: 107803. https://doi.org/10.1016/j.measurement.2020.107803
+
 Liu HY, Hu J, Li YF, Wen ZW (2021) Optimization: Modeling, Algorithms and Theory (in Chinese). 
 China higher education press, Beijing
 
