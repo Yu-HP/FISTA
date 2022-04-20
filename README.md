@@ -19,3 +19,11 @@ Yu Haipeng and Chang Guobin,
 School of Environment Science and Spatial Informatics,
 China University of Mining and Technology, Xuzhou, China
 2021-08-28, last modified 2022-01-20
+
+
+Disclaimer
+----------
+
+We do not accept any liability in connection with the use of code provided here. 
+We do not make any warranty of fitness, completeness,  usefulness and accuracy 
+of the codes for any intented or unintended purpose. 
